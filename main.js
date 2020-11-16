@@ -17,3 +17,11 @@ console.log(sakinys2);
 
 const fraze = 'Jis pasake: "Labas".';
 console.log(fraze);
+
+
+let admin, name;
+name = 'John';
+admin = name; 
+
+alert( admin ); 
+
