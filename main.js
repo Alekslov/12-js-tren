@@ -19,9 +19,21 @@ const fraze = 'Jis pasake: "Labas".';
 console.log(fraze);
 
 
-let admin, name;
-name = 'John';
-admin = name; 
+// let admin, name;
+// name = 'John';
+// admin = name; 
 
-alert( admin ); 
+// alert( admin ); 
+
+// const ourPlanetName = 'Earth';
+// const currentUserName = 'John';
+
+
+                //   *  prompt*  //
+let age = prompt('How old are you?', "");
+alert(`You are ${age} years old`);
+
+                //  * confirm* //
+// let qst = confirm("Are you here?");
+// alert( qst );
 
